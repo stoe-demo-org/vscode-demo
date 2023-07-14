@@ -1,6 +1,6 @@
 {
     "name": "demo",
-    "description": "Hello Worls Demo"
+    "description": "Hello Worls Demo",
     "dependencies": {
         "@actions/core": "latest"
     }
